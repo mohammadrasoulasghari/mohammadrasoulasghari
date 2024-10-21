@@ -1,23 +1,62 @@
-hi, i'm Mohammadrasoul asghari, a passionate self-taught full stack web developer and a freelance software engineer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<h1 align="center">Hi, I'm Mohammadrasoul Asghari 👋</h1>
+<h3 align="center">A passionate self-taught Full Stack Web Developer & Freelance Software Engineer from Iran</h3>
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=33FF91&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Freelance+Software+Engineer;Open-Source+Enthusiast" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" alt="Coding GIF">
+</p>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mohammadrasoulasghari1@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+---
 
-**languages and tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+### 👨‍💻 About Me
+
+I am a passionate Full Stack Web Developer with a strong interest in building elegant and efficient software solutions. My work spans across front-end and back-end development, where I focus on user experience, clean architecture, and high-quality code. I also enjoy contributing to the open-source community, learning, and sharing knowledge.
+
+- 🌍 Based in **Iran**
+- 💼 Available for freelance work: [Email me!](mailto:mohammadrasoulasghari1@gmail.com)
+- 💬 Ask me about anything: I am happy to help with web development, open-source, or any tech-related queries!
+- 🌱 Currently learning **Next.js**, **TypeScript**, and **Kubernetes**
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,ubuntu,redis,mongodb,javascript,react,jquery,css,html,git&theme=dark" />
+</p>
+
+---
+
+### ⚡ Fun Facts
+
+- 🚀 I am an open-source contributor and have gained a lot of experience and knowledge from the open-source community.
+- 🎯 I enjoy taking on complex problems and breaking them down into manageable pieces to create efficient solutions.
+- ✨ I believe in constant learning and always strive to improve my skills in web development.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrasghari&show_icons=true&theme=radical" alt="Mohammadrasoul Asghari's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrasghari&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrasghari&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+---
+
+### 📫 How to reach me
+
+<p align="center">
+  <a href="mailto:mohammadrasoulasghari1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mohammadrasoulasghari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
