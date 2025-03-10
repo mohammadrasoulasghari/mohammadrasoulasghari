@@ -39,17 +39,12 @@ I am a passionate Full Stack Web Developer with a strong interest in building el
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrasghari&show_icons=true&theme=radical" alt="Mohammadrasoul Asghari's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrasoulasghari&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrasghari&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrasghari&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadrasoulasghari&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ---
