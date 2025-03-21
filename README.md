@@ -30,7 +30,7 @@ I am a passionate Full Stack Web Developer with a strong interest in building el
 
 ---
 
-### ⚡ Fun Facts
+### ⚡ Facts
 
 - 🚀 I am an open-source contributor and have gained a lot of experience and knowledge from the open-source community.
 - 🎯 I enjoy taking on complex problems and breaking them down into manageable pieces to create efficient solutions.
