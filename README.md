@@ -30,11 +30,15 @@ I am a passionate Full Stack Web Developer with a strong interest in building el
 
 ---
 
-### ⚡ Facts
+### 🌍 Open Source Contributions
 
-- 🚀 I am an open-source contributor and have gained a lot of experience and knowledge from the open-source community.
-- 🎯 I enjoy taking on complex problems and breaking them down into manageable pieces to create efficient solutions.
-- ✨ I believe in constant learning and always strive to improve my skills in web development.
+I believe in the power of open-source and love collaborating with amazing developers worldwide. Here are some of the projects I’ve proudly contributed to:
+
+- 🧱 [Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Amohammadrasoulasghari+is%3Amerged)
+- ⚡ [Inertia.js](https://github.com/inertiajs/inertia-laravel/pulls?q=is%3Apr+author%3Amohammadrasoulasghari+is%3Amerged+)
+- 📘 [Laravel Documentation](https://github.com/laravel/docs/pulls?q=is%3Apr+author%3Amohammadrasoulasghari+is%3Amerged+)
+
+Each contribution has helped me learn more, grow faster, and give back to the community I care about.
 
 ---
 
